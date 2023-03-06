@@ -1,5 +1,5 @@
 # 💫 About Me:
-Eae, sou Miguel Luis, tenho 18 anos<br>atualmente fazendo o curso fullstack da one bit code,<br>sempre gostei de programação e pretendo trabalhar na area
+Eae, sou Miguel Luis, tenho 18 anos<br>atualmente fazendo o curso fullstack da one bit code,curso em video do Gustavo Guanabara <br>sempre gostei de programação e pretendo trabalhar na area, tento dar o melhor de mim em trabalhos com equipe e solo.
 
 
 ## 🌐 Socials:
