@@ -1,6 +1,7 @@
 ### 
 
-#!Hey, I'm an ads student, at UNISUAM and I also do courses on udemy, one bit code, video courses and CFB courses, I'm looking to be a fullstack developer, for now I'm finishing js to start react and ts and tailwind
+#!Hey, I'm an ads student, at UNISUAM and I also do courses on udemy, one bit code, video courses and CFB courses, I'm looking to be a fullstack developer, for now I'm finishing js to start react and ts and tailwind,
+After that I will try to look for an internship to gain experience on the front and if I can be an employer and already learn the back end by working
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
