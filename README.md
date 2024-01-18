@@ -16,6 +16,7 @@ After that I will try to look for an internship to gain experience on the front 
 ---
 [![](https://visitcount.itsvg.in/api?id=Miguelluisdev&icon=0&color=4)](https://visitcount.itsvg.in)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Miguelluisdev/Miguelluisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
