@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Venho me dedicando todos os dias em programação , com o objetivo de me tornar um desenvolvedor Full Stack excepcional. Meu foco é dar o meu melhor a cada dia independente dos problemas</p>
+<p align="left">✨ Venho me dedicando todos os dias em programação , com o objetivo de me tornar um desenvolvedor Full Stack excepcional. Meu foco é dar o meu melhor a cada dia independente dos problemas.</p>
 
 ###
 
