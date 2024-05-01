@@ -42,10 +42,8 @@
 ## Onde me encontrar
 
 <p align="left">
-  <a href="" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/miguel-luis-8533022a0/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Miguelluisdev" title="Github">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="WhatsApp"/></a>
 </p>
