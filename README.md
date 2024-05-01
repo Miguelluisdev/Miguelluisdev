@@ -4,7 +4,7 @@
 
 - 🤔 Estudando e Resolvendo erros.
 - 🎓 Estudando ADS na UNISUAM.
-- 💼 Pretendo Trabalhar como Frontend.
+- 💼 Pretendo Trabalhar como Frontend e no futuro como fullstack.
 - 🌱 Aprendendo mais sobre Nextjs , design patterns , solid.
 - 🌱 Pretendo aprender sobre Golang ou ruby , SQL e react native.
 
