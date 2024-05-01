@@ -6,7 +6,7 @@
 - 🎓 Estudando ADS na UNISUAM.
 - 💼 Pretendo Trabalhar como Frontend.
 - 🌱 Aprendendo mais sobre Nextjs , design patterns , solid.
-- 🌱 Pretendo aprender sobre Golang ou ruby , SQL.
+- 🌱 Pretendo aprender sobre Golang ou ruby , SQL e react native.
 
 ## Minhas Skills
 
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="LinkedIn"/>
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="LinkedIn"/>
   <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" alt="WhatsApp"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="WhatsApp"/>
 </p>
 
 
