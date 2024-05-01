@@ -1,82 +1,47 @@
-<h1 align="center">Ei 👋 E aí?</h1>
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-###
+## Sobre mim
 
-<br clear="both">
+- 🤔 Estudando e Resolvendo erros.
+- 🎓 Estudando {ADS} na {UNISUAM}.
+- 💼 Pretendo Trabalhar como {Frontend} na {empresa}.
+- 🌱 Aprendendo mais sobre {Nextjs , design patterns , solid}.
+- 🌱 Pretendo aprender sobre {Golang ou ruby , SQL}.
 
-<p align="left">Olá, sou estudante de ADS na UNISUAM e também faço cursos na udemy, one bit code, cursos em vídeo e cursos CFB e hora de codar estou em busca de ser desenvolvedor fullstack,tambem possuo curso de ingles intermediario e por enquanto estou estudando React ,typescript e tailwind estou em busca de um estagio , procurando sempre aprender com os erros , e encontrar as melhores maneiras de resolver um problema.</p>
+## Minhas Skills
 
-###
+**Aplicações e dados**
 
-<h2 align="left">Sobre mim</h2>
 
-###
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next)
 
-<p align="left">✨ Venho me dedicando todos os dias em programação , com o objetivo de me tornar um desenvolvedor Full Stack excepcional. Meu foco é dar o meu melhor a cada dia independente dos problemas.</p>
 
-###
 
-<h2 align="left">eu trabalho/estudo com:</h2>
 
-###
+**Utilidades**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-</div>
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-###
 
-<p align="left">Hello World!!</p>
+**Ferramentas de desenvolvimento**
 
-###
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-<div align="center">
-  <img height="200" src="https://blogsemserifa.files.wordpress.com/2016/05/01-vida-no-futuro-por-josan-gonzalez.jpg"  />
-</div>
+<br/>
 
-###
+<a href="/" title="Miguel Luis">
+  <img height="180em" src="https://camo.githubusercontent.com/9372db388cebf20a60ae51c4e3652cb4570066a3db05ce9c99fdae2df0ec8228/68747470733a2f2f626c6f6773656d7365726966612e66696c65732e776f726470726573732e636f6d2f323031362f30352f30312d766964612d6e6f2d66757475726f2d706f722d6a6f73616e2d676f6e7a616c657a2e6a7067" />
+</a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguelluisdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miguelluisdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## Onde me encontrar
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Miguelluisdev/count.svg?"  />
-</div>
-
-###
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-luis-8533022a0/)](https://www.linkedin.com/in/miguel-luis-8533022a0/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followersMiguelluisdev?label=follow&style=social)](https://github.com/Miguelluisdev)
