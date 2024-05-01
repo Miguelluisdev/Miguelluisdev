@@ -1,12 +1,12 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+
 
 ## Sobre mim
 
 - 🤔 Estudando e Resolvendo erros.
-- 🎓 Estudando {ADS} na {UNISUAM}.
-- 💼 Pretendo Trabalhar como {Frontend} na {empresa}.
-- 🌱 Aprendendo mais sobre {Nextjs , design patterns , solid}.
-- 🌱 Pretendo aprender sobre {Golang ou ruby , SQL}.
+- 🎓 Estudando ADS na UNISUAM.
+- 💼 Pretendo Trabalhar como Frontend.
+- 🌱 Aprendendo mais sobre Nextjs , design patterns , solid.
+- 🌱 Pretendo aprender sobre Golang ou ruby , SQL.
 
 ## Minhas Skills
 
@@ -17,8 +17,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next)
-
+![Nextjs](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=nextjs)
 
 
 
@@ -42,6 +41,11 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-luis-8533022a0/)](https://www.linkedin.com/in/miguel-luis-8533022a0/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followersMiguelluisdev?label=follow&style=social)](https://github.com/Miguelluisdev)
+<p align="left">
+  <a href="" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/miguel-luis-8533022a0/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://github.com/Miguelluisdev" title="Github">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="WhatsApp"/></a>
+</p>
