@@ -8,6 +8,8 @@
 - 🌱 Aprendendo mais sobre Nextjs , design patterns , solid.
 - 🌱 Pretendo aprender sobre Golang ou ruby , SQL e react native.
 
+- ⌨️ Atualnente focando no projeto da faculdade https://github.com/cplxx/vrum-drive
+
 ## Minhas Skills
 
 **Aplicações e dados**
