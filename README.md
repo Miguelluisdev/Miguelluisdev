@@ -38,9 +38,7 @@
 
 <br/>
 
-<a href="/" title="Miguel Luis">
-  <img height="180em" src="https://camo.githubusercontent.com/9372db388cebf20a60ae51c4e3652cb4570066a3db05ce9c99fdae2df0ec8228/68747470733a2f2f626c6f6773656d7365726966612e66696c65732e776f726470726573732e636f6d2f323031362f30352f30312d766964612d6e6f2d66757475726f2d706f722d6a6f73616e2d676f6e7a616c657a2e6a7067" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelluisdev&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar
 
