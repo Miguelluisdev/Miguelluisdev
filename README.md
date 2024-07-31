@@ -5,10 +5,9 @@
 - 🤔 Estudando e Resolvendo erros.
 - 🎓 Estudando ADS na UNISUAM e possuo ingles intermediario.
 - 💼 Pretendo Trabalhar como Frontend e no futuro como fullstack.
-- 🌱 Aprendendo mais sobre Nextjs e iniciando backend.
-- 🌱 Pretendo aprender sobre Golang , PostgreeSql e mongodb.
+- 🌱 Aprendendo mais sobre Nextjs e iniciando backend com golang.
+- 🌱 tambem aprendendo mongodb e postgree.
 
-- ⌨️ Atualnente focando no projeto da faculdade https://github.com/cplxx/vrum-drive
 
 ## Minhas Skills
 
