@@ -23,6 +23,7 @@
     │   ├── Brasil - (pt/br + english)
     │   ├── Desenvolvedor Frontend
     │   ├── Cursando ADS na UNISUAM
+    |   ├── Conhecimento em git
     │   └── Aprendendo mais sobre Nextjs e iniciando backend com golang.
     |       └── tambem aprendendo mongodb e postgree.
     │
