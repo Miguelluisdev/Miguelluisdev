@@ -24,8 +24,8 @@
     │   ├── Desenvolvedor Frontend
     │   ├── Cursando ADS na UNISUAM
     |   ├── Conhecimento em git
-    │   └── Aprendendo mais sobre Nextjs e iniciando backend com golang.
-    |       └── tambem aprendendo mongodb e postgree.
+    │   └── Aperfeiçoando o Nextjs e iniciando backend com golang e node.
+    |       └──  e tambem clean code
     │
     ├── contacts
     │   ├── https://github.com/Miguelluisdev
@@ -43,9 +43,7 @@
     │   └── Node.js
     └── learning
         ├── editing codes in Vs Code
-        ├── golang.go
-        ├── mongodb
-        └── and doing projects
+        ├── Fazendo projetos
         
   </tr>
 </table>
