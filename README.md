@@ -1,49 +1,49 @@
-<table>
-  <tr>
-    <td style="width: 50%;">
-       <img src="https://github.com/Miguelluisdev/Miguelluisdev/blob/main/cd34e92afe985f653076a675e09b8604.jpg" alt="Asuka" style="width: 200%; border: none;"/>
-    </td>
-    <td style="width: 50%; vertical-align: top;">
-      <p style="font-family: monospace; font-size: 16px;">
-       
-        
-               
-               _                      _     __          _      
-        /\/\  (_)  __ _  _   _   ___ | |   / /   _   _ (_) ___ 
-       /    \ | | / _` || | | | / _ \| |  / /   | | | || |/ __|
-      / /\/\ \| || (_| || |_| ||  __/| | / /___ | |_| || |\__ \
-      \/    \/|_| \__, | \__,_| \___||_| \____/  \__,_||_||___/
-                  |___/                                        
+<br clear="both">
 
-</p>
+<h1 align="left">Bem Vindo(a) 👋</h1>
 
-    /About_Me
-    │
-    ├── bio.txt
-    │   ├── Brasil - (pt/br + english)
-    │   ├── Desenvolvedor Frontend
-    │   ├── Cursando ADS na UNISUAM
-    |   ├── Conhecimento em git
-    │   └── Aperfeiçoando o Nextjs e iniciando backend com golang e node.
-    |       └──  e tambem clean code
-    │
-    ├── contacts
-    │   ├── https://github.com/Miguelluisdev
-    │   └── https://www.linkedin.com/in/miguel-luis-8533022a0/
-    │       └── https://portifolio2-bice.vercel.app/
-    │
-    ├── languages
-    │   ├── React.js
-    │   ├── Next.js
-    │   ├── Typescript
-    │   ├── Tailwind.css
-    │   ├── Golang
-    │   └── Postgree
-    │   └── SQL
-    │   └── Node.js
-    └── learning
-        ├── editing codes in Vs Code
-        ├── Fazendo projetos
-        
-  </tr>
-</table>
+###
+
+<p align="left">Eu sou o Miguel Luis, Tenho 19 anos e sou apaixonado por tecnologia, estou cursando analise e desenvolvimento de sistemas. Atualmente meu foco em vagas é o desenvolvimento frontend, e atualmente estou mergulhando no backend  para me tornar um desenvolvedor fullstack.</p>
+
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">Já tive a oportunidade de trabalhar com várias ferramentas e tecnologias incríveis desse ecossistema em meus projetos pessoais e academicos, como React , Next.js e Node.js, além de bancos de dados como PostgreSQL e SQLite.</p>
+
+###
+
+<h2 align="left">Tecnologias</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
+
+###
