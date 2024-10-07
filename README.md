@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h1 align="left">Bem Vindo(a) 👋</h1>
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Bem Vindo Gif" height="100" style="margin-left: 20px;" />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
 </div>
 
 <p align="left">
