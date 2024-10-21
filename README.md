@@ -40,3 +40,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
 </div>
+
+<h2 align="left">Aprendendo</h2>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+</div>
