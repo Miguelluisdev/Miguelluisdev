@@ -50,3 +50,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
 </div>
+
+<h2 align="left">Oque estou fazendo no dia a dia</h2>
+<div align="left">
+  <p align="left">
+     Atualmente estou ganhando conhecimento  , aprendendo e desenvolvendo o projex um site que gerencia outros projetos
+  </p>
+</div>
