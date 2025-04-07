@@ -54,12 +54,16 @@ Entre em contato ou acompanhe o trabalho:
 - [E-mail](miguelluisataideferreira68@gmail.com) - Para perguntas ou vagas.
 
 ## 🧠 Aprender no futuro
-- [**k6**](https://grafana.com/docs/k6/latest/): O Grafana k6 é uma ferramenta de teste de carga extensível, de código aberto e fácil de usar para desenvolvedores.
-- [**JMETER**](https://jmeter.apache.org/): O Grafana k6 é uma ferramenta de teste de carga extensível, de código aberto e fácil de usar para desenvolvedores.
-- [**APPIUM**](https://grafana.com/docs/k6/latest/): O Grafana k6 é uma ferramenta de teste de carga extensível, de código aberto e fácil de usar para desenvolvedores.
-- Teste automatizados
-  Manter o aprendizado em dia de novas ferramentas e frameworks para o dia a dia de trabalho
+🧠 Aprender no futuro
+k6: Ferramenta de teste de carga de código aberto, utilizada para avaliar a performance de aplicações web por meio de simulações realistas de usuários virtuais. Ideal para testes de stress e desempenho.
 
+JMeter: Ferramenta da Apache para testes de carga e desempenho, muito utilizada para validar a escalabilidade de aplicações web, serviços REST e SOAP.
+
+Appium: Framework de código aberto para automação de testes em aplicações mobile (Android e iOS), que permite escrever scripts reutilizáveis em várias linguagens como JavaScript, Python, entre outras.
+
+Testes Automatizados: Estudar boas práticas, frameworks modernos e estratégias de automação para aumentar a cobertura e eficiência dos testes, focando em qualidade contínua no ciclo de desenvolvimento.
+
+📌 Manter o aprendizado constante de novas ferramentas e frameworks para aplicar no dia a dia de trabalho, acompanhando as tendências e evoluções da área de QA.
 ## 📊 Estatísticas do GitHub
 
 Aqui estão algumas estatísticas do GitHub:
