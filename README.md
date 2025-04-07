@@ -18,7 +18,7 @@ Desenvolvedor de Front-end
 Pata Amigas · Freelance
 📍 Rio de Janeiro, Rio de Janeiro, Brasil · Remota
 
-Atuei no desenvolvimento, manutenção e aprimoramento de aplicações web utilizando React.js e Next.js, com foco na criação de interfaces modernas, responsivas e acessíveis. Implementei o consumo de APIs com GraphQL, otimizando a obtenção e manipulação de dados, além de aplicar técnicas de lazy loading, otimização de imagens e melhoria na renderização de componentes para elevar a performance da aplicação. Adotei boas práticas de SEO para aprimorar a indexação nos mecanismos de busca e desenvolvi animações interativas e microinterações utilizando Framer Motion e CSS animations para enriquecer a experiência do usuário. Também atuei na resolução de bugs, refatoração de código e implementação de novas funcionalidades, sempre visando entregar um produto final eficiente, escalável e de alta qualidade.
+Atuei no desenvolvimento, manutenção e aprimoramento de aplicações web utilizando React.js e Next.js.
 
 
 ## 🎓 𝗙𝗼𝗿𝗺𝗮çã𝗼
