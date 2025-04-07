@@ -51,6 +51,8 @@ Utilizando as melhores ferramentas para garantir que o software seja sempre de a
 - Metodologias Ágeis(Scrum/kanban)
 - Google sheets para documentação
 - Conhecimento avançado em Typescript e Javascript
+- Conhecimento avançado no funcionamento de um desenvolvimento de software , UI/UX , frontend , backend.
+
 
 ## 🌐 Conecte-se
 
