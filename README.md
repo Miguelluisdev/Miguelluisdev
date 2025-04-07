@@ -3,7 +3,8 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+Miguel+Luis."/>
   </p>
   <p id="subtitle">
-    𝗤𝗔 | 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗤𝘂𝗮𝗹𝗶𝗱𝗮𝗱𝗲 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 | 𝗧𝗲𝘀𝘁𝗲𝘀 𝗠𝗮𝗻𝘂𝗮𝗶𝘀 𝗲 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝘇𝗮𝗱𝗼𝘀
+   𝗤𝗔 | 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗤𝘂𝗮𝗹𝗶𝗱𝗮𝗱𝗲 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 | 𝗧𝗲𝘀𝘁𝗲𝘀 𝗠𝗮𝗻𝘂𝗮𝗶𝘀 𝗲 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝘇𝗮𝗱𝗼𝘀 | 𝗔𝗣𝗜 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 |  𝗖𝗶𝗰𝗹𝗼 𝗱𝗲 𝗩𝗶𝗱𝗮 𝗱𝗲 𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗶𝗺𝗲𝗻𝘁𝗼 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲
+
   </p>    
   <br>
 </div>
@@ -15,20 +16,10 @@
 ## 💻 Experiência
 Desenvolvedor de Front-end
 Pata Amigas · Freelance
-jun de 2024 – set de 2024 · 4 meses
 📍 Rio de Janeiro, Rio de Janeiro, Brasil · Remota
 
-Atuei no desenvolvimento, manutenção e aprimoramento de aplicações web utilizando React.js e Next.js, focando na criação de interfaces modernas e responsivas.
+Atuei no desenvolvimento, manutenção e aprimoramento de aplicações web utilizando React.js e Next.js, com foco na criação de interfaces modernas, responsivas e acessíveis. Implementei o consumo de APIs com GraphQL, otimizando a obtenção e manipulação de dados, além de aplicar técnicas de lazy loading, otimização de imagens e melhoria na renderização de componentes para elevar a performance da aplicação. Adotei boas práticas de SEO para aprimorar a indexação nos mecanismos de busca e desenvolvi animações interativas e microinterações utilizando Framer Motion e CSS animations para enriquecer a experiência do usuário. Também atuei na resolução de bugs, refatoração de código e implementação de novas funcionalidades, sempre visando entregar um produto final eficiente, escalável e de alta qualidade.
 
-Implementei o consumo de APIs utilizando GraphQL, otimizando a obtenção e manipulação de dados.
-
-Aprimorei o desempenho da aplicação através de técnicas como lazy loading, otimização de imagens e melhoria na renderização de componentes.
-
-Apliquei boas práticas de SEO para melhorar a indexação e visibilidade do site nos mecanismos de busca.
-
-Desenvolvi animações interativas e microinterações para melhorar a experiência do usuário, utilizando Framer Motion e CSS animations.
-
-Trabalhei na resolução de bugs, refatoração de código e implementação de novas funcionalidades, garantindo um produto final performático e acessível.
 
 ## 🎓 𝗙𝗼𝗿𝗺𝗮çã𝗼
   - Cursando ensino superior em analise e desenvolvimento de sistemas(5/5).
@@ -75,6 +66,5 @@ Aqui estão algumas estatísticas do GitHub:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Miguelluisdev&show_icons=true&theme=radical" height="290" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Miguelluisdev&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miguelluisdev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="290" alt="languages graph"  />
 </div>
