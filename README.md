@@ -27,14 +27,18 @@ Atuei no desenvolvimento, manutenção e aprimoramento de aplicações web utili
 
 
 ## ⚙️ Ferramentas e Frameworks que estou aprendendo
-
-Utilizando as melhores ferramentas para garantir que o software seja sempre de alta qualidade:
+ <details>
+ <summary>Conhecimento das melhores ferramentas para garantir que o software seja sempre de alta qualidade.</summary>
 
 - [**JIRA**](https://www.atlassian.com/br/software/jira): Ferramentas para Gestão das Atividades de Teste.
 - [**Robot Framework**](https://robotframework.org/): Framework de automação de testes baseado em palavras-chave.
 - [**Cypress**](https://www.cypress.io/): Framework moderno para testes end-to-end de aplicações web.
 - [**Playwright**](https://playwright.dev/): Framework para automação de testes em múltiplos navegadores.
 - [**Postman**](https://www.postman.com/): Postman é sua plataforma única para desenvolvimento colaborativo de API. 
+</details>
+
+ <details>
+   <summary>Outros conhecimentos</summary>
 
 - Noções básicas em comandos GIT (git add, git commit, git push, git status, git diff, git branch)
 - Github
@@ -43,7 +47,7 @@ Utilizando as melhores ferramentas para garantir que o software seja sempre de a
 - Google sheets para documentação
 - Conhecimento avançado em Typescript e Javascript
 - Conhecimento avançado no funcionamento de um desenvolvimento de software , UI/UX , frontend , backend.
-
+</details>
 
 ## 🌐 Conecte-se
 
@@ -61,9 +65,10 @@ JMeter: Ferramenta da Apache para testes de carga e desempenho, muito utilizada 
 
 Appium: Framework de código aberto para automação de testes em aplicações mobile (Android e iOS), que permite escrever scripts reutilizáveis em várias linguagens como JavaScript, Python, entre outras.
 
+Selenium: Automação de navegadores para testes de aplicações web.
+
 Testes Automatizados: Estudar boas práticas, frameworks modernos e estratégias de automação para aumentar a cobertura e eficiência dos testes, focando em qualidade contínua no ciclo de desenvolvimento.
 
-📌 Manter o aprendizado constante de novas ferramentas e frameworks para aplicar no dia a dia de trabalho, acompanhando as tendências e evoluções da área de QA.
 ## 📊 Estatísticas do GitHub
 
 Aqui estão algumas estatísticas do GitHub:
