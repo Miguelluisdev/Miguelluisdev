@@ -1,79 +1,71 @@
-<div align="center">   
-  <p id="title">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+Miguel+Luis."/>
-  </p>
-  <p id="subtitle">
-   𝗤𝗔 | 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗤𝘂𝗮𝗹𝗶𝗱𝗮𝗱𝗲 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 | 𝗧𝗲𝘀𝘁𝗲𝘀 𝗠𝗮𝗻𝘂𝗮𝗶𝘀 𝗲 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝘇𝗮𝗱𝗼𝘀 | 𝗔𝗣𝗜 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 |  𝗖𝗶𝗰𝗹𝗼 𝗱𝗲 𝗩𝗶𝗱𝗮 𝗱𝗲 𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗶𝗺𝗲𝗻𝘁𝗼 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲
+### Olá pessoal 👋 Miguel aqui! 🧪  
 
-  </p>    
-  <br>
-</div>
+[<img src="https://img.shields.io/badge/%F0%9F%92%BB-Testes%20Manuais-blue?style=flat&color=grey"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%9A%80-Automa%C3%A7%C3%A3o-blue?style=flat&color=grey"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%93%8A-API%20Testing-blue?style=flat&color=grey"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%92%AD-QA%20Mindset-blue?style=flat&color=grey"/>](#)
 
+<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-## 📋Sobre mim
-  Migrando para Quality Assurance (QA) com forte base em programação e tecnologia. Tenho experiência em desenvolvimento de software fullstack e conhecimento em banco de dados e estou direcionando minha carreira para garantir qualidade de software através de testes manuais e automatizados.
+- 🔍 Em transição para a área de **Quality Assurance (QA)**  
+- 👨‍💻 Experiência como desenvolvedor fullstack javascript  
+- 🧠 Forte base em programação e ciclo de vida de desenvolvimento de software  
+- 📚 Atualmente estudando ferramentas e praticando testes manuais  
+- 🛠 Também estudando  **gestão de projetos** e aprofundando os **fundamentos de teste**  
+- ✍️ Estou cursando o curso **Qazando trilha QA 2.0**  
+- 📫 Contato: [miguelluisataideferreira68@gmail.com](mailto:miguelluisataideferreira68@gmail.com)  
+- 📷 Instagram : [Miguel](https://www.instagram.com/migu3lluiz/)  
 
-## 💻 Experiência
-Desenvolvedor de Front-end
-Pata Amigas · Freelance
-📍 Rio de Janeiro, Rio de Janeiro, Brasil · Remota
+<br>
 
-Atuei no desenvolvimento, manutenção e aprimoramento de aplicações web utilizando React.js e Next.js.
+---
 
+### 💼 Atualmente estudando com:
 
-## 🎓 𝗙𝗼𝗿𝗺𝗮çã𝗼
-  - Cursando ensino superior em analise e desenvolvimento de sistemas(5/5).
-  -  pretendo começar o curso qualiters club
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Robot Framework](https://img.shields.io/badge/-RobotFramework-333333?style=flat&logo=robotframework)
 
+---
 
-## ⚙️ Ferramentas e Frameworks que estou aprendendo
- <details>
- <summary>Conhecimento das melhores ferramentas para garantir que o software seja sempre de alta qualidade.</summary>
+### ⚙️ DevOps & Outras Ferramentas:
 
-- [**JIRA**](https://www.atlassian.com/br/software/jira): Ferramentas para Gestão das Atividades de Teste.
-- [**Robot Framework**](https://robotframework.org/): Framework de automação de testes baseado em palavras-chave.
-- [**Cypress**](https://www.cypress.io/): Framework moderno para testes end-to-end de aplicações web.
-- [**Playwright**](https://playwright.dev/): Framework para automação de testes em múltiplos navegadores.
-- [**Postman**](https://www.postman.com/): Postman é sua plataforma única para desenvolvimento colaborativo de API. 
-</details>
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![JIRA](https://img.shields.io/badge/-JIRA-333333?style=flat&logo=jira)
+![TestRail](https://img.shields.io/badge/-TestRail-333333?style=flat&logo=testrail)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-333333?style=flat&logo=googlesheets)
+![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
 
- <details>
-   <summary>Outros conhecimentos</summary>
+---
 
-- Noções básicas em comandos GIT (git add, git commit, git push, git status, git diff, git branch)
-- Github
-- Noções básicas nos comandos SQL para geração de massas de dados para testes
-- Metodologias Ágeis(Scrum/kanban)
-- Google sheets para documentação
-- Conhecimento avançado em Typescript e Javascript
-- Conhecimento avançado no funcionamento de um desenvolvimento de software , UI/UX , frontend , backend.
-</details>
+### 📚 Formação
 
-## 🌐 Conecte-se
+- 🎓 Ensino superior em Análise e Desenvolvimento de Sistemas (5/5)
+- 🧪 Rumo a uma carreira sólida em **Qualidade de Software**
 
-Entre em contato ou acompanhe o trabalho:
+---
 
-- [Website](não possuo ainda) - Portfólio e detalhes sobre meus projetos e experiência.
-- [Instagram](https://youtube.com/@horadoqa) - Dicas e tutoriais sobre qualidade de software e testes.
-- [E-mail](miguelluisataideferreira68@gmail.com) - Para perguntas ou vagas.
+### 🧠 Estudar no futuro:
 
-## 🧠 Aprender no futuro
-🧠 Aprender no futuro
-k6: Ferramenta de teste de carga de código aberto, utilizada para avaliar a performance de aplicações web por meio de simulações realistas de usuários virtuais. Ideal para testes de stress e desempenho.
+![Appium](https://img.shields.io/badge/-Appium-333333?style=flat&logo=appium) **Testes Mobile**  
+![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium) **Automação de Navegadores**  
+![k6](https://img.shields.io/badge/-k6-333333?style=flat&logo=k6) **Testes de Performance**  
+![JMeter](https://img.shields.io/badge/-JMeter-333333?style=flat&logo=apachejmeter) **Testes de Carga**  
+![Gherkin](https://img.shields.io/badge/-Gherkin-333333?style=flat&logo=cucumber) **Especificação de Testes**  
+![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=cucumber) **BDD com Cucumber**  
+➡️ Estratégias modernas de **testes automatizados**, **BDD**, e **testes contínuos**
 
-JMeter: Ferramenta da Apache para testes de carga e desempenho, muito utilizada para validar a escalabilidade de aplicações web, serviços REST e SOAP.
+---
 
-Appium: Framework de código aberto para automação de testes em aplicações mobile (Android e iOS), que permite escrever scripts reutilizáveis em várias linguagens como JavaScript, Python, entre outras.
-
-Selenium: Automação de navegadores para testes de aplicações web.
-
-Testes Automatizados: Estudar boas práticas, frameworks modernos e estratégias de automação para aumentar a cobertura e eficiência dos testes, focando em qualidade contínua no ciclo de desenvolvimento.
-
-## 📊 Estatísticas do GitHub
-
-Aqui estão algumas estatísticas do GitHub:
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguelluisdev&show_icons=true&theme=radical" height="290" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miguelluisdev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="290" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Miguelluisdev&show_icons=true&theme=radical" height="200" alt="Estatísticas de Miguel" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miguelluisdev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="200" alt="Linguagens mais usadas" />
 </div>
