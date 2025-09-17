@@ -8,7 +8,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-- 🔍 Atualmente trabalhando no ConectaBem**  
+- 🔍 Atualmente trabalhando no **ConectaBem**  
 - 👨‍💻 Experiência como desenvolvedor fullstack javascript  
 - 🧠 Forte base em programação e ciclo de vida de desenvolvimento de software  
 - 📚 Atualmente estudando ferramentas e praticando testes manuais  
