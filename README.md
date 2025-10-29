@@ -8,58 +8,103 @@
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-- 🔍 Atualmente trabalhando no **ConectaBem**  
-- 👨‍💻 Experiência como desenvolvedor fullstack javascript  
-- 🧠 Forte base em programação e ciclo de vida de desenvolvimento de software  
-- 📚 Atualmente estudando ferramentas e praticando testes manuais  
-- 🛠 Também estudando  **gestão de projetos** e aprofundando os **fundamentos de teste**  
-- ✍️ Estou cursando o curso **Qazando trilha QA 2.0**  
+- 🔍 Atualmente atuando em **Qualidade de Software** no projeto **ConectaBem**  
+- 👨‍💻 Experiência prévia como **desenvolvedor fullstack JavaScript**  
+- 🧠 Forte base em **programação** e **ciclo de vida de desenvolvimento de software**  
+- 🧪 Atuação em **testes manuais e automatizados** com foco em qualidade, rastreabilidade e melhoria contínua  
+- 📚 Estudando **gestão de projetos**, **metodologias ágeis** e **boas práticas de QA**  
+- ✍️ Cursando o programa **Qazando – Trilha QA 2.0**  
 - 📫 Contato: [miguelluisataideferreira68@gmail.com](mailto:miguelluisataideferreira68@gmail.com)  
-- 📷 Instagram : [Miguel](https://www.instagram.com/migu3lluiz/)  
-
-<br>
+- 📷 Instagram: [Miguel](https://www.instagram.com/migu3lluiz/)  
 
 ---
 
-### 💼 Atualmente estudando com:
+### 🧩 Skills Técnicas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
-![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Robot Framework](https://img.shields.io/badge/-RobotFramework-333333?style=flat&logo=robotframework)
+#### 🧪 Testes Manuais  
+Planejamento, criação e execução de **casos de teste baseados em requisitos funcionais e não funcionais**.  
+Experiência com **testes exploratórios, regressão, smoke e validação ponta a ponta**.  
+Documentação de **resultados, bugs e evidências**, com foco em rastreabilidade e qualidade contínua.
 
----
+#### 🤖 Testes Automatizados  
+- **Cypress** – Automação de fluxos web, boas práticas de código limpo, CI/CD.  
+- **Robot Framework** – Testes funcionais e integração com sistemas ERP desktop.  
 
-### ⚙️ DevOps & Outras Ferramentas:
+#### 🔌 Testes de API  
+- **Postman**, **Cypress** e **Swagger** – Criação, automação e validação de endpoints REST.  
 
+#### 🧠 Linguagens de Programação  
+- **JavaScript**  
+- **TypeScript**
+
+#### 🗄️ Banco de Dados  
+- **PostgreSQL**  
+- **MongoDB**
+
+#### 🚀 DevOps & Ferramentas  
+![JIRA](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+![Qaase](https://img.shields.io/badge/-Qaase-333333?style=flat&logo=testinglibrary)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![JIRA](https://img.shields.io/badge/-JIRA-333333?style=flat&logo=jira)
-![TestRail](https://img.shields.io/badge/-TestRail-333333?style=flat&logo=testrail)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-333333?style=flat&logo=googlesheets)
-![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![DevTools](https://img.shields.io/badge/-DevTools-333333?style=flat&logo=googlechrome)
+![SonarQube](https://img.shields.io/badge/-SonarQube-333333?style=flat&logo=sonarqube)
+
+#### 🧭 Metodologias  
+- **Agile**, **Scrum**, **Kanban** e **Cascata**
 
 ---
 
-### 📚 Formação
+### 💡 Soft Skills  
 
-- 🎓 Ensino superior em Análise e Desenvolvimento de Sistemas (5/5)
-- 🧪 Rumo a uma carreira sólida em **Qualidade de Software**
+💬 **Comunicação Eficaz**  
+⚡ **Proatividade**  
+🎯 **Liderança**  
+🧩 **Adaptabilidade**  
+🧠 **Pensamento Crítico**  
+🤝 **Colaboração em Equipe**
 
 ---
 
-### 🧠 Estudar no futuro:
+### 🎓 Formação  
+
+- 🎓 **Análise e Desenvolvimento de Sistemas** – Trancado (5/5)  
+- 🧪 Em constante aprimoramento rumo a uma carreira sólida em **Qualidade de Software**
+
+---
+
+### 📜 Certificações  
+
+- **Cypress: Do Zero à Nuvem**  
+  *Instituição:* Walmyr Filho  
+  *Tecnologias:* Cypress, CI/CD, GitHub Actions, Cypress Cloud  
+
+- **Dominando Postman (2025): Do Teste Manual a Performance APIs**  
+  *Instituição:* Udemy – Qualiters Club  
+  *Tecnologias:* Postman, APIs, Automação de API, Testes de API  
+
+- **Conceitos de Testes de Software**  
+  *Instituição:* Qazando – Trilha QA 2.0  
+
+- **Gestão de Projetos e Gestão Ágil com Scrum**  
+  *Instituição:* Udemy – Guilherme Queiroz e Marcus Oliveira
+
+- Estou começando a preparação para o CTFL
+
+---
+
+### 🧠 Próximos Estudos  
 
 ![Appium](https://img.shields.io/badge/-Appium-333333?style=flat&logo=appium) **Testes Mobile**  
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium) **Automação de Navegadores**  
 ![k6](https://img.shields.io/badge/-k6-333333?style=flat&logo=k6) **Testes de Performance**  
 ![JMeter](https://img.shields.io/badge/-JMeter-333333?style=flat&logo=apachejmeter) **Testes de Carga**  
-![Gherkin](https://img.shields.io/badge/-Gherkin-333333?style=flat&logo=cucumber) **Especificação de Testes**  
-![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=cucumber) **BDD com Cucumber**  
-➡️ Estratégias modernas de **testes automatizados**, **BDD**, e **testes contínuos**
+
+➡️ Explorando **estratégias modernas de automação**, **testes contínuos** e **práticas de QA escalável**  
 
 ---
 
