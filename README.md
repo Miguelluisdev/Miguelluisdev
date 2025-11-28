@@ -13,7 +13,8 @@
 - 🧠 Forte base em **programação** e **ciclo de vida de desenvolvimento de software**  
 - 🧪 Atuação em **testes manuais e automatizados** com foco em qualidade, rastreabilidade e melhoria contínua  
 - 📚 Estudando **gestão de projetos**, **metodologias ágeis** e **boas práticas de QA**  
-- ✍️ Cursando o programa **Qazando – Trilha QA 2.0**  
+- ✍️ Cursando o programa **Qazando – Trilha QA 2.0**
+- ✍️ Cursando na **Qualiters Club** 
 - 📫 Contato: [miguelluisataideferreira68@gmail.com](mailto:miguelluisataideferreira68@gmail.com)  
 - 📷 Instagram: [Miguel](https://www.instagram.com/migu3lluiz/)  
 
