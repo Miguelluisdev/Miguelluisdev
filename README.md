@@ -8,7 +8,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-- 🔍 Atualmente atuando em **Qualidade de Software** no projeto **ConectaBem**  
+- 🔍 Atualmente atuando em **Qualidade de Software** no projeto **ConectaBem e fazendo freelancer de automação end to end e de apis**  
 - 👨‍💻 Experiência prévia como **desenvolvedor fullstack JavaScript**  
 - 🧠 Forte base em **programação** e **ciclo de vida de desenvolvimento de software**  
 - 🧪 Atuação em **testes manuais e automatizados** com foco em qualidade, rastreabilidade e melhoria contínua  
