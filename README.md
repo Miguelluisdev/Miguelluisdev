@@ -29,7 +29,7 @@ Documentação de **resultados, bugs e evidências**, com foco em rastreabilidad
 
 #### 🤖 Testes Automatizados  
 - **Cypress** – Automação de fluxos web, boas práticas de código limpo, CI/CD.  
-- **Robot Framework** – Testes funcionais e integração com sistemas ERP desktop.  
+- **Robot Framework** – Testes funcionais e integração.  
 
 #### 🔌 Testes de API  
 - **Postman**, **Cypress** e **Swagger** – Criação, automação e validação de endpoints REST.  
