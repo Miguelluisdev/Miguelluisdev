@@ -74,7 +74,7 @@ Documentação de **resultados, bugs e evidências**, com foco em rastreabilidad
 ### 🎓 Formação  
 
 - 🎓 **Análise e Desenvolvimento de Sistemas** – Trancado (5/5)  
-- 🧪 Em constante aprimoramento rumo a uma carreira sólida em **Qualidade de Software**
+
 
 ---
 
@@ -104,14 +104,3 @@ Documentação de **resultados, bugs e evidências**, com foco em rastreabilidad
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium) **Automação de Navegadores**  
 ![k6](https://img.shields.io/badge/-k6-333333?style=flat&logo=k6) **Testes de Performance**  
 ![JMeter](https://img.shields.io/badge/-JMeter-333333?style=flat&logo=apachejmeter) **Testes de Carga**  
-
-➡️ Explorando **estratégias modernas de automação**, **testes contínuos** e **práticas de QA escalável**  
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguelluisdev&show_icons=true&theme=radical" height="200" alt="Estatísticas de Miguel" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miguelluisdev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="200" alt="Linguagens mais usadas" />
-</div>
